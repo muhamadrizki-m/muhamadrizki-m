@@ -1,19 +1,39 @@
-# Rizki Maulana
+# Hi, I'm Muhamad Rizki Maulana
 
-I’m an Informatics student who enjoys learning about technology and programming. I’m currently exploring different areas of computing, building small projects, and applying what I learn through hands-on practice. This profile is where I document my learning journey, projects, and things I’ve worked on along the way.
+I'm an Informatics student who is currently learning and exploring different areas of technology and programming. I enjoy learning through hands-on practice, building projects, and documenting what I learn on GitHub.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/muhamad-rizki-maulana-071920370/)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/muhamad-rizki-maulana-071920370/)
 
+---
 
-### GitHub Statistics
+## Technologies
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+### Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,git,github,vscode" />
+</p>
+
+### Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=muhamadrizki-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhamadrizki-m&layout=compact&langs_count=8&theme=algolia"
-  />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=muhamadrizki-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhamadrizki-m&layout=compact&langs_count=8&theme=algolia" />
 </p>
+
+---
+
