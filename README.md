@@ -1,72 +1,51 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhamad+Rizki+Maulana;Informatics+Student;Learning+by+Building"
-    alt="Typing SVG"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=190&section=header&text=Muhamad%20Rizki%20Maulana&fontSize=38&fontColor=E6EDF3&fontAlignY=40&desc=Informatics%20Student%20%7C%20Aspiring%20Developer&descSize=16&descAlignY=65&descColor=8B949E"
+    alt="Muhamad Rizki Maulana — Informatics Student"
   />
 
-  <p>
-    <a href="https://www.linkedin.com/in/muhamad-rizki-maulana-071920370/">
-      <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
-  <p>
-    <i>Curious about technology. Focused on learning through real projects.</i>
-  </p>
+  <a href="https://www.linkedin.com/in/muhamad-rizki-maulana-071920370/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-161B22?style=flat-square&labelColor=161B22&color=161B22" alt="Focus: Web Development" />
+  <img src="https://img.shields.io/badge/Learning-AWS-161B22?style=flat-square&logo=amazonaws&logoColor=58A6FF" alt="Learning AWS" />
 
 </div>
 
----
+## About
 
-## About Me
+I'm an Informatics student interested in building useful software and understanding how it works behind the scenes. I learn through hands-on projects, consistent practice, and exploring new technologies.
 
-I'm an Informatics student building practical skills in software development and cloud computing. I learn by making projects, exploring new tools, and improving one step at a time.
+Currently, I'm strengthening my web development skills while learning backend development with Laravel and MySQL. I'm also exploring cloud computing with AWS.
 
-- Exploring web development
-- Learning backend development with Laravel and MySQL
-- Studying cloud computing and AWS
-- Turning ideas and coursework into practical projects
+## What I'm Working On
 
----
+- Building web projects to apply what I learn
+- Improving my backend development fundamentals
+- Learning the basics of cloud infrastructure and AWS
 
 ## Tech Stack
 
-**Languages**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,vite,git,github,vscode,aws&theme=dark" alt="HTML, CSS, JavaScript, PHP, Laravel, MySQL, Bootstrap, Vite, Git, GitHub, VS Code, AWS" />
 </p>
 
-**Frameworks, databases, and tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,vite,git,github,vscode" alt="Laravel, MySQL, Bootstrap, Vite, Git, GitHub, VS Code" />
-</p>
-
-**Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-</p>
-
----
-
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=muhamadrizki-m&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub statistics" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhamadrizki-m&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrizki-m&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://gh-heat.anishroy.com/api/muhamadrizki-m/svg?theme=blue&darkMode=true" alt="GitHub contribution graph" />
 
 </div>
 
 ---
 
 <div align="center">
-  <i>Learn something. Build something. Get better.</i>
+  <i>Learning through practice. Growing through every project.</i>
 </div>
