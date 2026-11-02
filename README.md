@@ -1,17 +1,18 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=25&duration=3200&pause=1400&color=E6EDF3&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Muhamad+Rizki+Maulana;Informatics+Student;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhamad+Rizki+Maulana;Informatics+Student;Learning+by+Building"
     alt="Typing SVG"
   />
 
   <p>
     <a href="https://www.linkedin.com/in/muhamad-rizki-maulana-071920370/">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-Connect-24292F?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      />
+      <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+  </p>
+
+  <p>
+    <i>Curious about technology. Focused on learning through real projects.</i>
   </p>
 
 </div>
@@ -20,73 +21,52 @@
 
 ## About Me
 
-I'm an **Informatics student** who enjoys learning about technology and programming. I learn through **hands-on practice**, building projects, experimenting with different technologies, and documenting my progress along the way.
+I'm an Informatics student building practical skills in software development and cloud computing. I learn by making projects, exploring new tools, and improving one step at a time.
 
-- Exploring **web development** and **cloud computing**
-- Building my foundation in **backend development** with Laravel & MySQL
-- Learning about **cloud computing and AWS**
-- Interested in turning what I learn into practical projects
+- Exploring web development
+- Learning backend development with Laravel and MySQL
+- Studying cloud computing and AWS
+- Turning ideas and coursework into practical projects
 
 ---
 
-## Technologies
+## Tech Stack
 
-### Programming Languages
+**Languages**
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,php"
-    alt="Programming Languages"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP" />
 </p>
 
-### Frameworks & Tools
+**Frameworks, databases, and tools**
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,vite,git,github,vscode"
-    alt="Frameworks and Tools"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,vite,git,github,vscode" alt="Laravel, MySQL, Bootstrap, Vite, Git, GitHub, VS Code" />
 </p>
 
-### Cloud
+**Cloud**
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=aws"
-    alt="AWS"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
 </p>
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=muhamadrizki-m&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhamadrizki-m&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+<div align="center">
 
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=muhamadrizki-m&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhamadrizki-m&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most used languages" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrizki-m&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadrizki-m&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+
+</div>
 
 ---
 
 <div align="center">
-
-  <i>Learning by building, improving through practice.</i>
-
+  <i>Learn something. Build something. Get better.</i>
 </div>
